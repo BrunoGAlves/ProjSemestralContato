@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">ProjetoAgenda</string>
+    <string name="bem_vindo">Bem-Vindo</string>
+    <string name="email_hind">Email:</string>
+    <string name="senha_hind">Senha:</string>
+    <string name="button_login">Login</string>
+    <string name="button_registro">Registrar-se</string>
+
+    <string name="registrar">Registrar-se</string>
+    <string name="nome">Nome:</string>
+    <string name="sobrenome">Sobrenome:</string>
+    <string name="email_registro">Email:</string>
+    <string name="senha_registro">Senha: </string>
+    <string name="button_registrar">Registrar</string>
+    <string name="title_activity_tela_principal">TelaPrincipal</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="contato_titulo">Novo Contato</string>
+    <string name="contato_nome"> Nome:</string>
+    <string name="contato_sobrenome"> Sobrenome:</string>
+    <string name="contato_empresa"> Empresa:</string>
+    <string name="contato_numero"> Número:</string>
+    <string name="contato_email"> E-mail:</string>
+    <string name="contato_aniversario"> Aniversário:</string>
+    <string name="contato_endereco"> Endereço:</string>
+    <string name="contato_add">Adicionar Contato</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
